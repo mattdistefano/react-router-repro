@@ -6,7 +6,6 @@ module.exports = {
   output: {
     filename: 'index.js',
     path: __dirname + '/dist',
-    //libraryTarget: 'umd',
   },
   context: path.resolve(__dirname, 'src'),
   devtool: 'source-map',

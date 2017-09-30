@@ -2020,7 +2020,6 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
 
 /* harmony default export */ __webpack_exports__["default"] = (__WEBPACK_IMPORTED_MODULE_0_react__["createElement"](__WEBPACK_IMPORTED_MODULE_1_react_router_dom__["a" /* BrowserRouter */], null));
-//# sourceMappingURL=index.js.map
 
 /***/ }),
 /* 29 */
